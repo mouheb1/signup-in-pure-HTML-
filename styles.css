@@ -1,0 +1,119 @@
+* {
+    outline:0px;
+}
+.login {
+    padding-top: 50px;
+    text-align: left;
+}
+.block-height {
+    min-height: 300px;
+}
+.login-header {
+    font-size: 30px;
+}
+.input-group {
+    padding: 5px 0;
+}
+.select {
+    width: 100%;
+}
+.label-select {
+    color: gray;
+}
+.login-input {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+a {
+    color: black;
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+
+.login-button {
+    height: 30px;
+    width: 100%;
+    color:white;
+    background-color: black;
+    margin-top: 90px;
+}
+.register-button {
+    height: 30px;
+    width: 100%;
+    color:white;
+    background-color: black;
+}
+.save-button {
+    height: 30px;
+    width: 40%;
+    color:white;
+    background-color: black;
+}
+.div-save-button {
+    text-align: left;
+}
+.right-div {
+    padding-top: 48px;
+}
+.span-prefix {
+    color: gray;
+}
+.input-group-prefix {
+    padding-top: -20px;
+}
+.prefix {
+    width: 15%;
+}
+.phone {
+    width: 84%;
+}
+input[type="text"],
+select.form-control {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid gray;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+input[type="text"]:focus,
+select.form-control:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+input[type="password"],
+select.form-control {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid gray;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+input[type="password"]:focus,
+select.form-control:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+select,
+select.form-control {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid gray;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+select:focus,
+select.form-control:focus {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
